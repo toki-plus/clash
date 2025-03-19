@@ -28,6 +28,7 @@ IP-CIDR,183.192.65.101/16,no-resolve
 IP-CIDR,43.132.55.55/16,no-resolve
 
 # 其他网站
+DOMAIN-SUFFIX,messari.io
 DOMAIN-SUFFIX,geolocation.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
