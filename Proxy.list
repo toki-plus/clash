@@ -27,6 +27,9 @@ DOMAIN-KEYWORD,sgameglobal.com
 IP-CIDR,183.192.65.101/16,no-resolve
 IP-CIDR,43.132.55.55/16,no-resolve
 
+# 指纹浏览器
+DOMAIN-SUFFIX,morelogin.com
+
 # 其他网站
 DOMAIN-SUFFIX,messari.io
 DOMAIN-SUFFIX,geolocation.com
