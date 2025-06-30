@@ -31,7 +31,7 @@ IP-CIDR,43.132.55.55/16,no-resolve
 DOMAIN-SUFFIX,morelogin.com
 
 # 其他网站
-DOMAIN-SUFFIX,www.xiaobaotv.com
+DOMAIN-SUFFIX,xiaobaotv.com
 DOMAIN-SUFFIX,messari.io
 DOMAIN-SUFFIX,geolocation.com
 DOMAIN-SUFFIX,polymarket.com
